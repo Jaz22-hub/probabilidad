@@ -1,4 +1,4 @@
-# probabilidad
+# Probabilidad y Estadistica
 # REPOSITORIO DE VERANO
 -Este reposritorio contiene informacion del verano
 # Datos del propietario
